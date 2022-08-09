@@ -1,4 +1,10 @@
-## HI HI HI!
+## HI!
+
+Me chamo Wanderson Matheus, amante de tecnologia e cultura geek. 
+
+Sou formado em técnico Eletronica e Graduado em analise e desenvolvimento de sistemas. 
+
+Estou especializando em programação java.
 
 <div>
   <a href="https://github.com/MatheusWanderson">
